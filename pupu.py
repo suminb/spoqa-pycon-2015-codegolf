@@ -1,2 +1,2 @@
-from test import EXAMPLE
+from test import *
 print(EXAMPLE)
